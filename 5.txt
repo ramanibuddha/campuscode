@@ -1,0 +1,22 @@
+components needs to crawl a website
+how to insert image into website:
+The HTML <img> tag is used to embed an image in a web page.
+
+Images are not technically inserted into a web page; images are linked to web pages. The <img> tag creates a holding space for the referenced image.
+
+The <img> tag is empty, it contains attributes only, and does not have a closing tag.
+
+The <img> tag has two required attributes:
+
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image
+to save image:
+if we save right click on the image will show us the save the image from the website
+
+how to save text from the image:
+To copy the highlighted text, on your keyboard, press the keyboard shortcut Ctrl+C or right-click the highlighted text and click Copy.
+
+To paste text, place your cursor in the appropriate location and press the keyboard shortcut key combination Ctrl+V, or right-click where you want to paste the text and click Paste.
+
+The text is copied from the web page to a new or existing document. From there, you can change the formatting of the text (bold, italics, font color or size, etc.).
+To solve this problem we just need system function to perform on website
